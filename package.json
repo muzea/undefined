@@ -1,0 +1,13 @@
+{
+  "name": "undefined",
+  "version": "0.0.0-dev",
+  "description": "convert jsx to function",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "glob": "^7.1.3"
+  }
+}
